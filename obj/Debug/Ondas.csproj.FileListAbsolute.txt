@@ -1,0 +1,17 @@
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\bin\Debug\Ondas.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\bin\Debug\Ondas.pdb
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\Ondas.Form1.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\Ondas.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\Ondas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\Ondas.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Ondas\obj\Debug\Ondas.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\Ondas.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\Ondas.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\bin\Debug\Ondas.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\bin\Debug\Ondas.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\Ondas.Form1.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\Ondas.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\GenerateResource.read.1.tlog
+D:\Mis documentos\Visual Studio 2008\Projects\Ondas\Ondas\obj\Debug\GenerateResource.write.1.tlog
